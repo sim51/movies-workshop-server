@@ -11,10 +11,11 @@
   "author": "William Lyon",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.0.0-beta.3",
-    "dotenv": "^5.0.1",
-    "graphql": "^0.13.2",
-    "neo4j-driver": "^1.6.1"
+    "apollo-server": "^2.4.8",
+    "dotenv": "^7.0.1",
+    "graphql": "14.2.1",
+    "neo4j-driver": "^1.7.3",
+    "neo4j-graphql-js": "^02.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
